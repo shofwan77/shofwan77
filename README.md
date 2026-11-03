@@ -1,176 +1,173 @@
- <div align="center">
+<div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=SHOFWAN&fontSize=70&fontColor=ffffff&color=0:0F2027,50:203A43,100:2C5364&stroke=00D9FF&strokeWidth=1&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:09001F,35:190061,70:4B0082,100:00E5FF&text=SHOFWAN&fontSize=75&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=LINUX%20%7C%20PROGRAMMING%20%7C%20TECH%20EXPLORER&descSize=16&descAlignY=58" width="100%"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Linux+Enthusiast;Java+%26+Web+Developer+in+Progress;Learning+Something+New+Every+Day" />
+<br/>
 
-  <br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!;Welcome+to+my+GitHub+Profile;Exploring+Linux+%26+Programming;Building+Projects+and+Learning+Every+Day" />
 
-  <img src="https://img.shields.io/badge/STATUS-LEARNING-00D9FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/FOCUS-TECHNOLOGY-203A43?style=for-the-badge&labelColor=0D1117" />
+<br/>
+
+<img src="https://img.shields.io/badge/FOCUS-PROGRAMMING-00E5FF?style=for-the-badge&logo=code&logoColor=white&labelColor=09001F"/>
+<img src="https://img.shields.io/badge/ENVIRONMENT-LINUX-8A2BE2?style=for-the-badge&logo=linux&logoColor=white&labelColor=09001F"/>
+<img src="https://img.shields.io/badge/MINDSET-NEVER_STOP-FF00FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=09001F"/>
 
 </div>
 
-<hr>
+<br/>
 
-<h2>👨‍💻 About Me</h2>
+<h2 align="center">⌨️ SYSTEM PROFILE</h2>
 
-<pre>
-$ whoami
-Shofwan
+```text
+┌──────────────────────────────────────────┐
+│             USER INFORMATION             │
+├──────────────────────────────────────────┤
+│  USER       : Shofwan                    │
+│  ROLE       : Student / Tech Explorer    │
+│  OS         : Linux                      │
+│  INTEREST   : Programming                │
+│  CURRENT    : Java & Web Development     │
+│  GOAL       : Become a Better Developer  │
+└──────────────────────────────────────────┘
+```
 
-$ cat interests.txt
-Linux
-Java Programming
-Web Development
-Backend Development
-Networking
-Cloud Computing
+<div align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+</div>
 
-$ echo "Keep learning, keep building."
-</pre>
+<br/>
 
-<p>
-  I'm a student passionate about technology, programming, and Linux.
-  I enjoy exploring new tools, experimenting with code, and building
-  projects while continuously improving my skills.
-</p>
+<h2 align="center">⚡ TECHNOLOGY ARSENAL</h2>
 
-<hr>
+<h3 align="center">◈ Programming Languages</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css&theme=dark" />
+</div>
 
-<h2>⚡ Tech Stack</h2>
+<h3 align="center">◈ Backend & Database</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,sqlite&theme=dark" />
+</div>
 
-<h3>Programming & Web Development</h3>
+<h3 align="center">◈ Operating Systems & Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&theme=dark" />
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css" />
-</p>
+<br/>
 
-<h3>Backend & Database</h3>
+<h2 align="center">🧠 KNOWLEDGE DATABASE</h2>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,sqlite" />
-</p>
-
-<h3>Operating Systems & Tools</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode" />
-</p>
-
-<hr>
-
-<h2>📚 Learning Journey</h2>
-
-<table>
+<table align="center">
   <tr>
-    <th>Category</th>
-    <th>What I've Learned</th>
+    <th>DOMAIN</th>
+    <th>EXPLORING</th>
   </tr>
   <tr>
-    <td>Java</td>
-    <td>Methods, Arrays, 2D Arrays, Loops, Bubble Sort, OOP Basics</td>
+    <td>☕ Java</td>
+    <td>Methods, Arrays, Loops, Sorting, OOP</td>
   </tr>
   <tr>
-    <td>Linux</td>
-    <td>Terminal, Bash, chmod, chown, SUID, SGID</td>
+    <td>🐧 Linux</td>
+    <td>Terminal, Bash, Permissions, SUID, SGID</td>
   </tr>
   <tr>
-    <td>Web Development</td>
+    <td>🌐 Web</td>
     <td>HTML, CSS, JavaScript, Responsive Design</td>
   </tr>
   <tr>
-    <td>Backend</td>
-    <td>Node.js, Express.js, REST API Fundamentals</td>
+    <td>⚙️ Backend</td>
+    <td>Node.js, Express.js, REST API</td>
   </tr>
   <tr>
-    <td>Database</td>
+    <td>🗄️ Database</td>
     <td>SQLite, Firebase, Firestore</td>
   </tr>
   <tr>
-    <td>Git & GitHub</td>
-    <td>Init, Clone, Commit, Push, Pull, Branch</td>
+    <td>🔧 Version Control</td>
+    <td>Git, GitHub, Branching, Git Workflow</td>
   </tr>
   <tr>
-    <td>DevOps</td>
-    <td>GitHub Actions, YAML, CI/CD Fundamentals</td>
+    <td>☁️ Cloud & DevOps</td>
+    <td>AWS Fundamentals, GitHub Actions, YAML</td>
   </tr>
   <tr>
-    <td>Infrastructure</td>
+    <td>🖥️ Infrastructure</td>
     <td>QEMU, Virtual Machines, Networking</td>
   </tr>
+</table>
+
+<br/>
+
+<h2 align="center">🚀 PROJECT LABORATORY</h2>
+
+<table align="center">
   <tr>
-    <td>Cloud</td>
-    <td>AWS Fundamentals</td>
+    <td align="center" width="33%">
+      <h3>💍 Wedding Invitation</h3>
+      <p>Digital wedding invitation with slideshow, RSVP, and guest messages.</p>
+      <img src="https://img.shields.io/badge/HTML-CSS-JS-00E5FF?style=flat-square"/>
+      <br/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    </td>
+    <td align="center" width="33%">
+      <h3>🎵 Music Player</h3>
+      <p>Custom music player with playlist and audio controls.</p>
+      <img src="https://img.shields.io/badge/Frontend-Development-8A2BE2?style=flat-square"/>
+    </td>
+    <td align="center" width="33%">
+      <h3>📦 PinjamYuk</h3>
+      <p>Inventory borrowing and returning application concept.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+    </td>
   </tr>
 </table>
 
-<hr>
+<br/>
 
-<h2>🚀 Featured Projects</h2>
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Technologies</th>
-  </tr>
-  <tr>
-    <td><b>Wedding Invitation</b></td>
-    <td>Interactive digital wedding invitation with RSVP and guest messages.</td>
-    <td>HTML, CSS, JavaScript, Firebase</td>
-  </tr>
-  <tr>
-    <td><b>Music Player</b></td>
-    <td>Custom web music player with playlist and audio controls.</td>
-    <td>HTML, CSS, JavaScript</td>
-  </tr>
-  <tr>
-    <td><b>PinjamYuk</b></td>
-    <td>Inventory borrowing and returning application concept.</td>
-    <td>Node.js, Express, SQLite</td>
-  </tr>
-</table>
-
-<hr>
-
-<h2>📊 GitHub Statistics</h2>
+<h2 align="center">📊 GITHUB STATISTICS</h2>
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shofwan77&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<br/><br/>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shofwan77&layout=compact&theme=tokyonight&hide_border=true" />
-
-  <br><br>
-
-  <img width="70%" src="https://streak-stats.demolab.com?user=shofwan77&theme=tokyonight&hide_border=true" />
+<img width="65%" src="https://streak-stats.demolab.com?user=shofwan77&theme=tokyonight&hide_border=true&background=09001F&ring=00E5FF&fire=FF00FF&currStreakLabel=00E5FF"/>
 
 </div>
 
-<hr>
+<br/>
 
-<h2>🎯 Current Focus</h2>
-
-<ul>
-  <li>Improving Java and Object-Oriented Programming</li>
-  <li>Building backend applications</li>
-  <li>Exploring Linux system administration</li>
-  <li>Learning Docker and CI/CD</li>
-  <li>Understanding networking and AWS</li>
-  <li>Building more practical projects</li>
-</ul>
-
-<hr>
+<h2 align="center">🎯 CURRENT MISSIONS</h2>
 
 <div align="center">
 
-  <h3>「 Stay Curious. Keep Building. 」</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=FF00FF&center=true&vCenter=true&width=600&lines=Improving+Java+OOP;Exploring+Linux+Administration;Building+Backend+Applications;Learning+Docker+and+CI%2FCD;Understanding+AWS+and+Networking" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=450&lines=Learning+never+stops.;Code.+Debug.+Repeat.;One+step+at+a+time." />
+</div>
 
-  <br><br>
+<ul>
+  <li>⚡ Improve Java and Object-Oriented Programming.</li>
+  <li>🐧 Explore Linux system administration.</li>
+  <li>🌐 Build more web and backend projects.</li>
+  <li>☁️ Learn cloud computing and AWS.</li>
+  <li>🔧 Explore automation and DevOps.</li>
+</ul>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
+<br/>
+
+<h2 align="center">🌌 END OF TRANSMISSION</h2>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Stay+Curious.;Keep+Experimenting.;Keep+Building.;Never+Stop+Learning." />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/THANKS-FOR_VISITING-09001F?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00E5FF,40:4B0082,100:09001F&animation=twinkling" width="100%"/>
 
 </div>
