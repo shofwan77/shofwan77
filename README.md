@@ -15,7 +15,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/BASED_IN-INDONESIA_%F0%9F%87%AE%F0%9F%87%A9-FF3B3B?style=for-the-badge&labelColor=333333" />
   <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-00D26A?style=for-the-badge&labelColor=333333" />
-  <img src="https://img.shields.io/badge/MINDSET-NEVER_STOP-FF00FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=09001F" />
 </p>
 
 </div>
