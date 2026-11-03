@@ -15,25 +15,25 @@
 </div>
 
 <br/>
-
 <h2 align="center">⌨️ SYSTEM PROFILE</h2>
+
 <div align="center">
 
-```text
+<pre>
 ┌──────────────────────────────────────────┐
-│             USER INFORMATION             │
+│              USER INFORMATION            │
 ├──────────────────────────────────────────┤
-│  USER       : Shofwan                    │
-│  ROLE       : Student / Tech Explorer    │
-│  OS         : Linux                      │
-│  INTEREST   : Programming                │
-│  CURRENT    : Java & Web Development     │
-│  GOAL       : Become a Better Developer  │
+│  USER       : Shofwan                     │
+│  ROLE       : Student / Tech Explorer     │
+│  OS         : Linux                       │
+│  INTEREST   : Programming                 │
+│  CURRENT    : Java & Web Development      │
+│  GOAL       : Become a Better Developer   │
 └──────────────────────────────────────────┘
-```
+</pre>
 
-<div align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
+<p><i>"First, solve the problem. Then, write the code."</i></p>
+
 </div>
 
 <br/>
