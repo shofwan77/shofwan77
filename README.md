@@ -12,6 +12,12 @@
 <img src="https://img.shields.io/badge/ENVIRONMENT-LINUX-8A2BE2?style=for-the-badge&logo=linux&logoColor=white&labelColor=09001F"/>
 <img src="https://img.shields.io/badge/MINDSET-NEVER_STOP-FF00FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=09001F"/>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/BASED_IN-INDONESIA_%F0%9F%87%AE%F0%9F%87%A9-FF3B3B?style=for-the-badge&labelColor=333333" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-00D26A?style=for-the-badge&labelColor=333333" />
+  <img src="https://img.shields.io/badge/MINDSET-NEVER_STOP-FF00FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=09001F" />
+</p>
+
 </div>
 
 <br/>
@@ -102,28 +108,43 @@
 
 <h2 align="center">🚀 PROJECT LABORATORY</h2>
 
-<table align="center">
+<p align="center">
+  <i>Some things I've built and explored.</i>
+</p>
+
+<table width="100%">
   <tr>
     <td align="center" width="33%">
       <h3>💍 Wedding Invitation</h3>
-      <p>Digital wedding invitation with slideshow, RSVP, and guest messages.</p>
-      <img src="https://img.shields.io/badge/HTML-CSS-JS-00E5FF?style=flat-square"/>
-      <br/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <p>Interactive digital wedding invitation with slideshow, RSVP, and guest messages.</p>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
     </td>
     <td align="center" width="33%">
       <h3>🎵 Music Player</h3>
-      <p>Custom music player with playlist and audio controls.</p>
-      <img src="https://img.shields.io/badge/Frontend-Development-8A2BE2?style=flat-square"/>
+      <p>Custom web music player with playlist, audio controls, and interactive interface.</p>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     </td>
     <td align="center" width="33%">
       <h3>📦 PinjamYuk</h3>
       <p>Inventory borrowing and returning application concept.</p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-PROJECTS_IN_PROGRESS-00D4FF?style=for-the-badge&labelColor=09001F"/>
+</p>
 
 <br/>
 
