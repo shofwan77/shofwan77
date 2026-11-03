@@ -17,6 +17,7 @@
 <br/>
 
 <h2 align="center">⌨️ SYSTEM PROFILE</h2>
+<div align="center">
 
 ```text
 ┌──────────────────────────────────────────┐
