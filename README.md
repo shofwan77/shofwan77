@@ -15,7 +15,7 @@
 </div>
 
 <br/>
-<h2 align="center">⌨️ SYSTEM PROFILE</h2>
+<h2 align="center">⌨️ USER INFORMATION</h2>
 
 <div align="center">
 
