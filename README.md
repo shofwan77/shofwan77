@@ -138,6 +138,32 @@
 </div>
 
 <br/>
+<h2 align="center">📬 CONNECT WITH ME</h2>
+
+<p align="center">
+  <i>Have a question, an idea, or want to collaborate? Feel free to reach out!</i>
+</p>
+
+<div align="center">
+
+<a href="https://github.com/shofwan77">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/Shofwan Masyaai">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:shofwanmasyaai1234">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/shopwaaan/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<code>Let's connect, share ideas, and build something great!</code>
+
+</div>
 
 <h2 align="center">🎯 CURRENT MISSIONS</h2>
 
